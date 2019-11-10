@@ -1,0 +1,55 @@
+TITLE      AcAla4OMe scan
+REMARK   1 File created by GaussView 6.0.16
+ATOM      1  C   ALA A   0      -7.802  -1.910  -0.504                       C
+ATOM      2  H   ALA A   0      -7.509  -1.855  -1.555                       H
+ATOM      3  H   ALA A   0      -8.749  -1.382  -0.364                       H
+ATOM      4  H   ALA A   0      -7.965  -2.957  -0.231                       H
+ATOM      5  C   ALA A   0      -6.773  -1.317   0.439                       C
+ATOM      6  O   ALA A   0      -6.952  -1.276   1.654                       O
+ATOM      7  N   ALA A   1      -5.642  -0.843  -0.144                       N
+ATOM      8  H   ALA A   1      -5.530  -0.813  -1.151                       H
+ATOM      9  CA  ALA A   1      -4.587  -0.208   0.619                       C
+ATOM     10  HA  ALA A   1      -5.050   0.438   1.375                       H
+ATOM     11  CB  ALA A   1      -3.691  -1.238   1.328                       C
+ATOM     12  HB1 ALA A   1      -2.933  -0.746   1.945                       H
+ATOM     13  HB2 ALA A   1      -3.175  -1.860   0.593                       H
+ATOM     14  HB3 ALA A   1      -4.316  -1.860   1.972                       H
+ATOM     15  C   ALA A   1      -3.776   0.649  -0.354                       C
+ATOM     16  O   ALA A   1      -3.875   0.525  -1.565                       O
+ATOM     17  N   ALA A   2      -2.997   1.620   0.238                       N
+ATOM     18  H   ALA A   2      -2.928   1.529   1.246                       H
+ATOM     19  CA  ALA A   2      -1.752   2.055  -0.388                       C
+ATOM     20  HA  ALA A   2      -2.008   2.348  -1.413                       H
+ATOM     21  CB  ALA A   2      -1.207   3.271   0.360                       C
+ATOM     22  HB1 ALA A   2      -0.882   3.009   1.373                       H
+ATOM     23  HB2 ALA A   2      -1.988   4.032   0.433                       H
+ATOM     24  HB3 ALA A   2      -0.358   3.723  -0.162                       H
+ATOM     25  C   ALA A   2      -0.770   0.865  -0.538                       C
+ATOM     26  O   ALA A   2      -1.165  -0.289  -0.643                       O
+ATOM     27  N   ALA A   3       0.548   1.175  -0.491                       N
+ATOM     28  H   ALA A   3       0.887   2.118  -0.349                       H
+ATOM     29  CA  ALA A   3       1.579   0.168  -0.645                       C
+ATOM     30  HA  ALA A   3       1.305  -0.701  -0.036                       H
+ATOM     31  CB  ALA A   3       1.737  -0.282  -2.108                       C
+ATOM     32  HB1 ALA A   3       0.783  -0.672  -2.467                       H
+ATOM     33  HB2 ALA A   3       2.493  -1.068  -2.198                       H
+ATOM     34  HB3 ALA A   3       2.038   0.564  -2.733                       H
+ATOM     35  C   ALA A   3       2.878   0.782  -0.118                       C
+ATOM     36  O   ALA A   3       3.006   1.997   0.024                       O
+ATOM     37  N   ALA A   4       3.872  -0.098   0.141                       N
+ATOM     38  H   ALA A   4       3.715  -1.089   0.020                       H
+ATOM     39  CA  ALA A   4       5.194   0.338   0.567                       C
+ATOM     40  HA  ALA A   4       5.428   1.264   0.036                       H
+ATOM     41  CB  ALA A   4       5.258   0.612   2.079                       C
+ATOM     42  HB1 ALA A   4       4.530   1.385   2.330                       H
+ATOM     43  HB2 ALA A   4       6.257   0.957   2.357                       H
+ATOM     44  HB3 ALA A   4       5.024  -0.296   2.645                       H
+ATOM     45  C   ALA A   4       6.268  -0.670   0.187                       C
+ATOM     46  O   ALA A   4       7.448  -0.413   0.181                       O
+ATOM     47  O   ALA A   5       5.765  -1.892  -0.090                       O
+ATOM     48  C   ALA A   5       6.736  -2.910  -0.410                       C
+ATOM     49  H   ALA A   5       6.158  -3.815  -0.595                       H
+ATOM     50  H   ALA A   5       7.303  -2.621  -1.297                       H
+ATOM     51  H   ALA A   5       7.421  -3.050   0.429                       H
+TER      52      ALA A   5
+END
